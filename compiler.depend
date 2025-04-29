@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1745364111 source:d:\abo baker\collage\third_year\sec_sem\compiler\lap\frontend_of_compiler\compiler\main.cpp
+	<bits/stdc++.h>
+	<fstream>
+
+1745862565 source:d:\abo baker\collage\third_year\sec_sem\compiler\lab\frontend_of_compiler\compiler\main.cpp
+	<bits/stdc++.h>
+	<fstream>
+

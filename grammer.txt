@@ -1,0 +1,10 @@
+Graph Tuple G
+G comma Graph
+G ep
+Tuple ( int comma T )
+T int
+T Color
+Color C_red
+Color C_green
+Color C_white
+Color C_yellow

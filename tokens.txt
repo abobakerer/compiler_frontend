@@ -1,0 +1,9 @@
+q1 (
+q2 )
+q3 comma
+q4 int
+q7 C_red
+q12 C_green
+q16 C_blue
+q21 C_white
+q27 C_yellow
