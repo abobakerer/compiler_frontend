@@ -127,7 +127,7 @@ void makeFollow(string nonT,map<string,vector<string>> grammer){
                     else{
                         bool finish = true;
                         for(int i = index+1;i<symbols.size();i++){
-                            if(grammer.find~(symbols[index+1]) == grammer.end()){
+                            if(grammer.find(symbols[index+1]) == grammer.end()){
                                 follow[nonT].insert(symbols[index+1]); // variable finish will exit
                             }
                             else{
